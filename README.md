@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandrakant Swarnkar  
 
-<!--
-**AurifexChandra/AurifexChandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **3D Artist** passionate about creating characters and assets for **video game pipelines**.  
+I specialize in sculpting, topology, texturing, hair grooming, and look development — bringing ideas to life with both artistic and technical precision.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Use  
+- Maya | ZBrush | Blender | Marvelous Designer  
+- Substance Painter | Substance Designer | Photoshop  
+- Marmoset Toolbag | Unreal Engine 4/5 | DaVinci Resolve  
+
+---
+
+## 💻 On the Side  
+I also enjoy programming to support production workflows, with experience in:  
+- C++ | Python | Lua | ZScript  
+
+---
+
+✨ *Always learning, always creating.*  
